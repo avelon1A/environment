@@ -1,0 +1,38 @@
+/* Example changes */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #444;
+}
+
+header {
+    background-color: #009688;
+}
+
+nav ul li a {
+    color: #009688;
+    font-weight: normal;
+}
+
+section {
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+    font-size: 1.6rem;
+    color: #009688;
+}
+
+section ul li a {
+    color: #009688;
+}
+
+section ul li a:hover {
+    color: #007acc;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
